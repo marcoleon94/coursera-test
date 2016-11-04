@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #afaaaa;
+  font-family: 'Oxygen', sans-serif;
+}
+#nav-bar-collapse{
+	background-color: #b54141;
+	text-align:center;
+}
+
+#header-nav{
+	background-color: #b54141;
+	border-radius: 0;
+}
+.navbar-brand{
+	color: white;
+}
+nav div .navbar-header .navbar-brand{
+
+	color:white;
+}
+
+div #nav-bar-collapse li a{
+	color: white;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.content{
+	background-color: #ffffff;
+	color:black;
+	font-style: italic;
+	border-color: gray;
+	border-radius: 5px;
+}
+.content-title{
+	font-size: 2em;
+	font-style: normal;
+}
+.content-text{
+
+}
